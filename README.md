@@ -5,7 +5,7 @@
 
 <h2>✨ Features</h2>
 <ul>
-  <li>✅ Add new tasks to the list.</li>
+  <li>✅ Add new task to the list.</li>
   <li>🗑️ Remove tasks from the list.</li>
   <li>💾 Tasks are saved to local storage.</li>
   <li>🎨 Clean and responsive UI.</li>
